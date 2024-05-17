@@ -100,7 +100,7 @@ h4 {
 h5 {
     font-size: 1rem;
     margin-top: .25rem;
-    padding: .5rem; ;
+    padding: .5rem; 
     background-color: #333;
     color: #FFF;
     font-weight: normal;
@@ -123,11 +123,26 @@ p {
 
 
 /* Image & Figure */
-img {}
-figure {}
-figcaption {}
+img {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50rem;
+}
+figure {
+    margin-bottom: 2rem;
+}
+figcaption {
+    padding-top: .5rem;
+    text-align: right;
+}
 
 
 /* Footer */
-footer {}
+footer {
+    padding: 1rem;
+    border-top: #333 solid;
+}
 
