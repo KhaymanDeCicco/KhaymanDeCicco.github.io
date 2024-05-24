@@ -167,7 +167,10 @@ ul {
     list-style-type: square;
 }
 
-ol {margin: 16rem, 0, 16rem, 0;
+ol {margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
     list-style-type: lower-alpha;
 
 }
@@ -182,21 +185,41 @@ ol {margin: 16rem, 0, 16rem, 0;
 
 /* Navigation Menu */
 
-nav {}
+nav {
+    padding-left: 0;
+    margin-top: .25rem;
+}
 
-nav a {}
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: 1.125rem;
+    margin-bottom: 1.5rem;
+    border: .0625rem solid #33658A;
+}
 
 nav a:focus,
-nav a:hover {}
+nav a:hover {
+    color: #fff;
+    background-color: #33658A;
+}
 
-nav a:active {}
+nav a:active {
+    color: #fff;
+    background-color: #000;
+}
 
 
 
 
 /* Footer Styles */
 
-footer {}
+footer {
+    text-align: center;
+}
 
 
 
