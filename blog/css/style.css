@@ -47,5 +47,95 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+/* Spacing */
+/* Padding */
+header, nav, main, footer {
+    padding: 20px;
+}
 
+/* Margin */
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* Letter-spacing, word-spacing, line-height */
+h1, h2, h3 {
+    line-height: 1.5;
+}
+
+/* Width, max-width, min-width */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Typography */
+/* Font-family, font-size, font-style, font-weight */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+/* Text-decoration, text-align */
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Color */
+.highlight {
+    color: #ff00ff;
+}
+
+/* Text-transform */
+h1, h2, h3 {
+    text-transform: capitalize;
+}
+
+/* Box, Layout, and Border */
+/* Border */
+.article-image {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Display */
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+/* Transform */
+.expand {
+    transform: rotate(45deg);
+}
+
+/* Other */
+/* :hover */
+a:hover {
+    color: #ff0000;
+}
 
