@@ -62,7 +62,7 @@ nav ul {
 nav ul li {
     margin: 0;
     padding: 0;
-    list-style-type: none;
+    list-style-type:
 }
 
 /* Letter-spacing, word-spacing, line-height */
@@ -115,8 +115,8 @@ h1, h2, h3 {
 /* Box, Layout, and Border */
 /* Border */
 .article-image {
-    border: 1px solid #ccc;
-    border-radius: 5px;
+   float: left;
+   margin-right: 20px;
 }
 
 /* Display */
