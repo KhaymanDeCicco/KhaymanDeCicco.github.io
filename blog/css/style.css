@@ -47,7 +47,12 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
-
+@font-face {
+    font-family:Josefinslab;
+    src: url(../fonts/josefinslab-regular.ttf) format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+}
 
 .right-aside {
     width: 300px;
