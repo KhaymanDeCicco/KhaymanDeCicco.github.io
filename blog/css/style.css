@@ -65,13 +65,13 @@ nav ul {
     padding: 0;
     border-top: 2px solid black;
     border-bottom: 2px solid black;
-    word-spacing: .125rem;
+    
 }
 
 nav ul li {
     margin: 0;
     padding: 0;
-    list-style-type:
+    word-spacing: .125rem;
 }
 
 /* Letter-spacing, word-spacing, line-height */
