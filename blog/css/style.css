@@ -137,7 +137,15 @@ a {
     border-radius: 5px;
     color: bisque;
 }
-
+button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #640f0c; 
+    border: 2px solid black; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+    border-radius: 5px;
+    color: bisque;
+}
 /* Text-transform */
 h1, h2, h3 {
     text-transform: capitalize;
