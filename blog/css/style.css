@@ -141,7 +141,7 @@ h1, h2, h3 {
 /* Border */
 .article-image {
    float: left;
-   padding: .0125rem;
+   padding-left: .0125rem;
 }
 
 /* Display */
