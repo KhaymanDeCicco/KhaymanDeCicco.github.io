@@ -159,7 +159,7 @@ h1, h2, h3 {
 /* Border */
 .article-image {
    float: left;
-   
+   padding-left: 10px;
 }
 
 /* Display */
