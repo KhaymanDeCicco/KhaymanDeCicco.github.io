@@ -58,6 +58,7 @@ header, nav, main, footer {
     border-left: 2px solid #ccc;
     padding-left: 10px;
     margin-right: 10px;
+    justify-content: space-around;
 }
 /* Margin */
 nav ul {
@@ -84,6 +85,7 @@ main {
     max-width: 800px;
     margin: 0 auto;
     text-align: left;
+    justify-content: baseline;
 }
 
 /* Typography */
