@@ -120,10 +120,11 @@ a {
 .highlight {
     display: inline-block;
     padding: 5px 10px;
-    background-color: #ffeb3b; /* Yellow background color */
-    border: 2px solid #ff9800; /* Orange border color */
+    background-color: #640f0c; /* Yellow background color */
+    border: 2px solid black; /* Orange border color */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Slight shadow */
     border-radius: 5px;
+    color: bisque;
 }
 
 /* Text-transform */
