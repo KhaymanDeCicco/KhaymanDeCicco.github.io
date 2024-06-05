@@ -61,6 +61,10 @@
     justify-content: space-around;
 }
 
+.image-description +.image-description {
+border-top: 2px solid black;
+}
+
 nav ul {
     margin: 0;
     padding: 0;
