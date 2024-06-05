@@ -141,7 +141,7 @@ h1, h2, h3 {
 /* Border */
 .article-image {
    float: left;
-   margin-right: 10px;
+   margin-right: 1px;
 }
 
 /* Display */
