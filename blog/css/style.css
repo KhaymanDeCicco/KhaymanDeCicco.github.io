@@ -49,9 +49,8 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 /* Spacing */
 /* Padding */
-header, nav, main, footer {
-    padding: 20px;
-}
+
+
 .right-aside {
     width: 300px;
     float: right;
@@ -76,9 +75,7 @@ nav ul li {
 }
 
 /* Letter-spacing, word-spacing, line-height */
-h1, h2, h3 {
-    line-height: 1.5;
-}
+
 
 /* Width, max-width, min-width */
 main {
