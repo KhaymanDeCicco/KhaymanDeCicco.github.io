@@ -82,7 +82,7 @@ nav ul li {
 /* Width, max-width, min-width */
 main {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 0;
     text-align: left;
     display: flex;
     justify-content: baseline;
