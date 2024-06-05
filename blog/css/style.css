@@ -140,11 +140,12 @@ a {
 button {
     display: inline-block;
     padding: 5px 10px;
-    background-color: #640f0c; 
+    background-color: #250c64; 
     border: 2px solid black; 
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
     border-radius: 5px;
-    color: bisque;
+    color: rgb(245, 243, 241);
+    font-size: .125rem;
 }
 /* Text-transform */
 h1, h2, h3 {
