@@ -52,7 +52,13 @@
 header, nav, main, footer {
     padding: 20px;
 }
-
+.right-aside {
+    width: 300px;
+    float: right;
+    border-left: 2px solid #ccc;
+    padding-left: 10px;
+    margin-right: 10px;
+}
 /* Margin */
 nav ul {
     margin: 0;
