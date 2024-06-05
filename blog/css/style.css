@@ -74,14 +74,14 @@ nav ul {
     border-bottom: 2px solid black;
     font-size: 20px;
     list-style: none;
-    word-spacing: 2rem;
+    
     
 }
 
 nav ul li {
     margin: 0;
     padding: 0;
-    word-spacing: .125rem;
+    word-spacing: 2rem;
 }
 
 .main-section {
