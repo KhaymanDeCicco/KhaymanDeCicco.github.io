@@ -136,7 +136,8 @@ a {
     color: #333;
 }
 figcaption {
-    background-color: #ffeb3b; /* Yellow background color */
+    background-color: #ded476; /* Yellow background color */
+    padding: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Adds a slight shadow */
     border-radius: 5px;       /* Optional: adds rounded corners */
     text-align: left;       /* Centers the text */
