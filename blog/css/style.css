@@ -158,7 +158,7 @@ nav ul li {
     transform: rotate(-5deg);
 }
 .expand {
-    max-width: .75rem;
+    width: .75rem;
 }
 /* Other */
 /* :hover */
