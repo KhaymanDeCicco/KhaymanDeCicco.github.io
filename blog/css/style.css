@@ -145,7 +145,7 @@ button {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
     border-radius: 5px;
     color: rgb(245, 243, 241);
-    font-size: .125rem;
+    font-size: 3rem;
 }
 /* Text-transform */
 h1, h2, h3 {
