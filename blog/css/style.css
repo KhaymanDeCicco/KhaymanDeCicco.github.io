@@ -158,7 +158,7 @@ nav ul li {
 }
 
 /* Transform */
-.expand {
+.title {
     transform: rotate(-5deg);
 }
 
