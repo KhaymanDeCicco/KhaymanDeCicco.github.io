@@ -188,12 +188,16 @@ nav ul li {
 .image-refs {
     text-align: right;
 }
+.copyright {
+    text-align: left;
+}
 /* Transform */
 .title {
     transform: rotate(-5deg);
 }
 .expand {
     width: .75rem;
+    height: .75rem;
 }
 /* Other */
 /* :hover */
