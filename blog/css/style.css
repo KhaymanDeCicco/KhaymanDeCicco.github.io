@@ -56,7 +56,6 @@
     float: right;
     border-left: 2px solid #ccc;
     padding-left: 10px;
-    
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -86,7 +85,7 @@ main {
     margin: 0;
     text-align: left;
     display: flex;
-    justify-content: baseline;
+    justify-content: space-between;
 }
 
 /* Typography */
