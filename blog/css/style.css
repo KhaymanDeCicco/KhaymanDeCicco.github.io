@@ -185,7 +185,9 @@ nav ul {
 nav ul li {
     margin-right: 10rem;
 }
-
+.image-refs {
+    text-align: right;
+}
 /* Transform */
 .title {
     transform: rotate(-5deg);
