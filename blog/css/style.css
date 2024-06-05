@@ -135,7 +135,15 @@ a {
     text-decoration: none;
     color: #333;
 }
-
+figcaption {
+    background-color: #ffeb3b; /* Yellow background color */
+    padding: 10px;            /* Adds padding inside the caption */
+    border: 2px solid #ff9800; /* Orange border color */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Adds a slight shadow */
+    border-radius: 5px;       /* Optional: adds rounded corners */
+    text-align: center;       /* Centers the text */
+    margin-top: 10px;
+}
 .highlight {
     display: inline-block;
     padding: 5px 10px;
@@ -154,6 +162,7 @@ button {
     border-radius: 5px;
     color: rgb(245, 243, 241);
     font-size: 3rem;
+    border-radius: 5px;
 }
 /* Text-transform */
 h1, h2, h3 {
