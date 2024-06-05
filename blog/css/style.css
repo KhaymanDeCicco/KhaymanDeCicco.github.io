@@ -63,6 +63,7 @@
 
 .image-description {
     max-height: fit-content;
+    border-bottom: #333;
 }
 nav ul {
     margin: 0;
