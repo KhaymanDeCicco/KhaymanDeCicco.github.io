@@ -61,7 +61,9 @@
     padding-right: 0%;
 }
 
-
+.image-description {
+    max-height: fit-content;
+}
 nav ul {
     margin: 0;
     padding: 20px;
