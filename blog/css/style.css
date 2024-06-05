@@ -80,7 +80,7 @@ nav ul li {
 
 
 /* Width, max-width, min-width */
-main {
+.main-section {
     max-width: 800px;
     margin: 0;
     text-align: left;
